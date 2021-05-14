@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sofiprzngrn
+- 👀 I’m interested in data science and algoritmic trading
+- 🌱 I’m currently learning alctuarial sciences
+- 💞️ I’m looking to collaborate on anything that could let me some learning.
